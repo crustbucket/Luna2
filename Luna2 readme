@@ -1,0 +1,5 @@
+Luna2 is an attempt to improve on other authors work. Not sure who to credit?  This icon theme was ported from several icon themes to work on GTK3+.  The structure of the icon folders is different than on Win2-7 or YLMF luna icons for GTK2.  It should hit 99% of all the windows 7 icons for linux in GTK3+. It was developed on Ubuntu Mate 16.04 and tested on Ubuntu Mate 16.10 and on the nightly builds of Ubuntu Mate 17.04.
+
+Also, I have gnome, hicolor, mate and pixmaps ports which have been ported with Luna2 icons for those icons which Luna2 doesn't work if anyone is interested. Those can manually be copied into their respective folders when used for remastering since some icons are only installed during the installation of each software package.
+
+Crustbucket-may the penguin be with you!
