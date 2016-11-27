@@ -1,0 +1,10 @@
+To install Luna2:
+
+Extract the .tar file into your home/user name/.icon folder.
+If you want global application, goto /files/root and open as administrator.  Copy Luna2 into the root/home/.icon folder.  If the folder is not there create a new folder name .icons and copy it there.
+
+As root open /usr/share/icons and paste Luna2 folder there.
+
+CAUTION: make sure to check the permissions of all folders.  In the system and root folders make sure that root/root permissions exists and user permissions to access folders exist on all folders both at the top level and all internal folders.  Make sure user permissions exist on all folders/files in the home directory.
+
+crustbucket-may the penguin be with you!
